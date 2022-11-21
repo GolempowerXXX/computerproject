@@ -1,0 +1,12 @@
+body{
+
+background: linear-gradient(45deg, #dce950 0%, #99eec2 100%)
+}
+#images1{
+    background-color: aqua;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+
